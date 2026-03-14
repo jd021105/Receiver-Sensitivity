@@ -73,7 +73,7 @@ Your report should include:
 <img width="799" height="1280" alt="image" src="https://github.com/user-attachments/assets/cca53c3a-6628-4fcd-a02f-1bad9e547a08" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4e197502-1199-48e4-ad4c-7a847f6c4d64" />
 
-![alt text](<Screenshot 2025-09-24 213808.png>)
+
 
 ---
 
